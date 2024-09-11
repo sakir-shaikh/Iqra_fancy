@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    position: relative;
+    text-align: center;
+    margin-top: 450px;
+    
+}
+body{
+    background-image: url(Assests/images/banner/1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
